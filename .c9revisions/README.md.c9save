@@ -1,1 +1,2 @@
 {"ts":1380307683244,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"Test\n====\n\nA test repository.\n"]],"start1":0,"start2":0,"length1":0,"length2":30}]],"length":30}
+{"contributors":[],"silentsave":false,"ts":1380310720819,"patch":[[{"diffs":[[0,"st\n====\n"],[-1,"\n"],[0,"A test r"]],"start1":2,"start2":2,"length1":17,"length2":16},{"diffs":[[0,"sitory.\n"],[1,"\nEverybody look at this group line thing Willy is talking about.\n\nCan you read this anybody?"]],"start1":21,"start2":21,"length1":8,"length2":100}]],"length":121,"saved":false}
